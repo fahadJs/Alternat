@@ -3,3 +3,7 @@ Teamplate Name: alternat
 Version: 1.0
 */
 /* Type your CSS Here */
+
+.mean-expand{
+    display: none !important;
+}
